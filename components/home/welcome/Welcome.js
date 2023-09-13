@@ -36,7 +36,7 @@ const Welcome = ({ searchTerm, setSearchTerm, handleClick }) => {
   return (
     <View>
       <View style={styles.container}>
-        <Header headerText={"Hi, User "} headerIcon={"user"} />
+        <Header headerText={"Hi, John "} headerIcon={"user"} />
       </View>
       <View style={styles.searchContainer}>
         <View style={styles.searchWrapper}>
